@@ -1,8 +1,11 @@
 # LP9DPBO2023C2
 Saya Ade Mulyana NIM 2108799 mengerjakan soal LP9 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Connect to Database
-<img width="500" src="https://github.com/adem299/LP9DPBO2023C2/assets/100661834/fa26ff8e-a85d-414d-9ec9-44a8a41c1e1a" >
+## Alur Program
+- Ketika program pertama kali dijalankan akan menampilkan Landing Page.
+- Jika button `Cek data Residen` ditekan progam akan memunculkan Main page / Home page.
+- Main page menampilkan seluruh data residen.
+- Jika button `Details` ditekan program akan memunculkan Details page masing masing.
 
 ## Preview page
 ##### Landing page
@@ -14,5 +17,5 @@ Saya Ade Mulyana NIM 2108799 mengerjakan soal LP9 dalam mata kuliah Desain dan P
 #### Detail Resident
 <img width="500" src="https://github.com/adem299/LP9DPBO2023C2/assets/100661834/fa25de3b-1150-442b-990b-cc80aa0c4496" >
 
-# Demo TKinter
+## Demo TKinter
 <video width="550" src="https://github.com/adem299/LP9DPBO2023C2/assets/100661834/b621d794-3deb-431b-a142-1d853e0f3c24" > 
